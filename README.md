@@ -1,6 +1,6 @@
 # Koala Conservation & Physical Health Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview 
 This project explores the physiological characteristics of koalas across Queensland (QLD) and Victoria (VIC). Using statistical modeling, I analyzed how habitat and environmental factors influence physical growth markers like head length, foot size, and body circumference.
 
 ## 🛠️ Data Science & Statistical Workflow
